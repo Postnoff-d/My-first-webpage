@@ -1,6 +1,9 @@
 body {
-    background-color: lightcoral;
+    background-color: greenyellow;
 }
 h3 {
     color: blueviolet;
+}
+h2 {
+    background-color: aquamarine;
 }
